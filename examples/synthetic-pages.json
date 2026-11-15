@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Synthetic report. Comparison of formulation A and formulation B using a fictional outpatient register.\nObjective. We compared the observed frequency of unplanned visits in adults receiving formulation A or B for the same indication.\nThe register included consecutive outpatient dispensings at two fictional clinics from January to June in the study year.\nWe included adults with a first dispensing and at least 180 prior days of register history. We excluded concurrent use of both formulations.\nExposure was the formulation recorded at dispensing. The outcome was an unplanned visit recorded within 30 days.\nDay zero was the first eligible dispensing date in both groups. We observed unplanned visits over the next 30 days."
+    },
+    {
+      "page": 2,
+      "text": "Methods. We used dispensing dates and product codes from the shared register and visit dates and types from the same records.\nThe register linked dispensing and visit entries by the same coded patient identifier.\nA second team member checked a pilot extraction against the agreed field definitions before full extraction.\nWe removed duplicate encounters and checked that visit dates followed dispensing dates.\nA fictional review board approved the study and waived consent. The extracted records used coded identifiers.\nBoth clinics used the same definitions and event codes for unplanned visits.\nWe report crude proportions. We describe outcomes separately for adults aged under 65 and those aged 65 or older."
+    },
+    {
+      "page": 3,
+      "text": "Results. Of 246 records screened, 22 involved prior use and 4 involved concurrent use. Among 220 eligible records, 8 had missing visit information and were excluded. The analysis included 112 recipients of A and 100 recipients of B.\nMedian ages were 61 and 63 years. Unplanned visits occurred in 18 of 112 recipients of A and 20 of 100 recipients of B.\nIn adults aged under 65, the proportions were 8 of 66 and 10 of 56. In those aged 65 or older, the proportions were 10 of 46 and 10 of 44.\nIn a sensitivity analysis using 14 days instead of 30, the observed proportions were 11 of 112 and 13 of 100.\nThe observed frequency was lower for A. Differences may reflect unmeasured severity and incomplete visit capture outside the clinics. The comparison is descriptive.\nFunding was provided by the fictional Regional Research Council. The analysis code is available from the team upon reasonable request."
+    }
+  ]
+}

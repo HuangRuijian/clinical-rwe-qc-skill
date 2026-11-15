@@ -1,0 +1,336 @@
+{
+  "report_id": "synthetic-outpatient-report",
+  "items": [
+    {
+      "item_id": 1,
+      "score": 1,
+      "reason": "The comparison identifies the population, exposure and measurable outcome in the available outpatient data.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "We compared the observed frequency of unplanned visits in adults receiving formulation A or B for the same indication."
+        }
+      ]
+    },
+    {
+      "item_id": 2,
+      "score": 1,
+      "reason": "The objective states the question for the two formulations.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "We compared the observed frequency of unplanned visits in adults receiving formulation A or B for the same indication."
+        }
+      ]
+    },
+    {
+      "item_id": 3,
+      "score": 0,
+      "reason": "The comparative objective contains no testable expected relationship.",
+      "evidence": []
+    },
+    {
+      "item_id": 4,
+      "score": 1,
+      "reason": "The outpatient register supplies consecutive dispensing records from an identified care setting.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "The register included consecutive outpatient dispensings at two fictional clinics from January to June in the study year."
+        }
+      ]
+    },
+    {
+      "item_id": 5,
+      "score": 1,
+      "reason": "Age, first dispensing, prior records and concurrent exposure are addressed in the eligibility rules.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "We included adults with a first dispensing and at least 180 prior days of register history. We excluded concurrent use of both formulations."
+        }
+      ]
+    },
+    {
+      "item_id": 6,
+      "score": 1,
+      "reason": "The exposure and outcome are operationalized.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "Exposure was the formulation recorded at dispensing. The outcome was an unplanned visit recorded within 30 days."
+        }
+      ]
+    },
+    {
+      "item_id": 7,
+      "score": 0,
+      "reason": "The report gives age strata and crude proportions but does not document a strategy for the stated severity differences.",
+      "evidence": []
+    },
+    {
+      "item_id": 8,
+      "score": 1,
+      "reason": "The index date is the same event in both arms.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "Day zero was the first eligible dispensing date in both groups."
+        }
+      ]
+    },
+    {
+      "item_id": 9,
+      "score": 0,
+      "reason": "No sample size calculation or precision assumption is reported.",
+      "evidence": []
+    },
+    {
+      "item_id": 10,
+      "score": 1,
+      "reason": "The follow-up interval covers the stated acute endpoint.",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "We observed unplanned visits over the next 30 days."
+        }
+      ]
+    },
+    {
+      "item_id": 11,
+      "score": 1,
+      "reason": "The register and its dispensing and visit data are described.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "We used dispensing dates and product codes from the shared register and visit dates and types from the same records."
+        }
+      ]
+    },
+    {
+      "item_id": 12,
+      "score": 1,
+      "reason": "The register connects recorded formulations with the visits needed for the study question.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "The register linked dispensing and visit entries by the same coded patient identifier."
+        }
+      ]
+    },
+    {
+      "item_id": 13,
+      "score": 1,
+      "reason": "The retrieved dates and codes identify exposure and whether a recorded visit occurs in follow-up.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "We used dispensing dates and product codes from the shared register and visit dates and types from the same records."
+        }
+      ]
+    },
+    {
+      "item_id": 14,
+      "score": 1,
+      "reason": "A pilot extraction was checked against a field specification.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "A second team member checked a pilot extraction against the agreed field definitions before full extraction."
+        }
+      ]
+    },
+    {
+      "item_id": 15,
+      "score": 1,
+      "reason": "Duplicate records and timing inconsistencies were checked.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "We removed duplicate encounters and checked that visit dates followed dispensing dates."
+        }
+      ]
+    },
+    {
+      "item_id": 16,
+      "score": 0,
+      "reason": "The pilot was checked against definitions but the report gives no independent comparison with original source records.",
+      "evidence": []
+    },
+    {
+      "item_id": 17,
+      "score": 0,
+      "reason": "A coded identifier is reported, but a data management plan addressing storage, access or oversight is unavailable.",
+      "evidence": []
+    },
+    {
+      "item_id": 18,
+      "score": 1,
+      "reason": "The report states a consent waiver and coding of extracted records.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "A fictional review board approved the study and waived consent. The extracted records used coded identifiers."
+        }
+      ]
+    },
+    {
+      "item_id": 19,
+      "score": 0,
+      "reason": "The reported statistics give no evidence of an analysis plan addressing the design and potential confounding.",
+      "evidence": []
+    },
+    {
+      "item_id": 20,
+      "score": 0,
+      "reason": "The report supplies crude event proportions and does not establish a method for estimating a treatment effect.",
+      "evidence": []
+    },
+    {
+      "item_id": 21,
+      "score": 0,
+      "reason": "No analysis to control for measured confounders is described.",
+      "evidence": []
+    },
+    {
+      "item_id": 22,
+      "score": 0,
+      "reason": "No assessment of mediators or overadjustment is reported.",
+      "evidence": []
+    },
+    {
+      "item_id": 23,
+      "score": 1,
+      "reason": "Results are reported for defined age subgroups.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "In adults aged under 65, the proportions were 8 of 66 and 10 of 56. In those aged 65 or older, the proportions were 10 of 46 and 10 of 44."
+        }
+      ]
+    },
+    {
+      "item_id": 24,
+      "score": 1,
+      "reason": "The two clinics used a standardized visit definition and coding practice.",
+      "evidence": [
+        {
+          "page": 2,
+          "quote": "Both clinics used the same definitions and event codes for unplanned visits."
+        }
+      ]
+    },
+    {
+      "item_id": 25,
+      "score": 0,
+      "reason": "Indexing precedes measured outcome, but the report does not assess whether early symptoms influenced formulation choice.",
+      "evidence": []
+    },
+    {
+      "item_id": 26,
+      "score": 1,
+      "reason": "The number of records missing the outcome and the exclusion of these records are reported.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Among 220 eligible records, 8 had missing visit information and were excluded."
+        }
+      ]
+    },
+    {
+      "item_id": 27,
+      "score": 0,
+      "reason": "No multiplicity control or testing hierarchy is reported.",
+      "evidence": []
+    },
+    {
+      "item_id": 28,
+      "score": 1,
+      "reason": "A shorter follow-up window was actually examined.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "In a sensitivity analysis using 14 days instead of 30, the observed proportions were 11 of 112 and 13 of 100."
+        }
+      ]
+    },
+    {
+      "item_id": 29,
+      "score": 1,
+      "reason": "The report gives a traceable description of its purpose, approach, findings and interpretation, with the principal conclusions on this page.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "The observed frequency was lower for A. Differences may reflect unmeasured severity and incomplete visit capture outside the clinics. The comparison is descriptive."
+        }
+      ]
+    },
+    {
+      "item_id": 30,
+      "score": 1,
+      "reason": "The report accounts for screening, exclusions and the counts analysed in each group.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Of 246 records screened, 22 involved prior use and 4 involved concurrent use. Among 220 eligible records, 8 had missing visit information and were excluded. The analysis included 112 recipients of A and 100 recipients of B."
+        }
+      ]
+    },
+    {
+      "item_id": 31,
+      "score": 1,
+      "reason": "The main endpoint counts use stated denominators, and the report gives a baseline age summary.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Median ages were 61 and 63 years. Unplanned visits occurred in 18 of 112 recipients of A and 20 of 100 recipients of B."
+        }
+      ]
+    },
+    {
+      "item_id": 32,
+      "score": 1,
+      "reason": "Interpretation acknowledges unmeasured severity and incomplete outcome capture.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Differences may reflect unmeasured severity and incomplete visit capture outside the clinics. The comparison is descriptive."
+        }
+      ]
+    },
+    {
+      "item_id": 33,
+      "score": 0,
+      "reason": "The report does not discuss a population or setting to which the findings might transfer.",
+      "evidence": []
+    },
+    {
+      "item_id": 34,
+      "score": 0,
+      "reason": "No dissemination or intended application is documented.",
+      "evidence": []
+    },
+    {
+      "item_id": 35,
+      "score": 1,
+      "reason": "The report identifies its funder. This establishes the funding disclosure only.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Funding was provided by the fictional Regional Research Council."
+        }
+      ]
+    },
+    {
+      "item_id": 36,
+      "score": 1,
+      "reason": "The authors state a route for accessing the analysis code.",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "The analysis code is available from the team upon reasonable request."
+        }
+      ]
+    }
+  ]
+}
